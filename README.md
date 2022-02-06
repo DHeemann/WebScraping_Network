@@ -1,6 +1,8 @@
 # Web scraping network chart 
 R Shiny dashboard to scrape content from Wikipedia and show the connection (network) between different pages. 
 
+Link to the Shiny application: https://heemann.shinyapps.io/webscraping_network/ ([ctrl]+mousewheel to adjust to browser size)
+
 The logic is as follows: 
 
 1. Clicking on "**Create new network**" will retrieve every linked word (blue link) in the the main body of the specified wikipedia article 
